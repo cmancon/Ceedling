@@ -4,7 +4,7 @@
 	branch = master
 [submodule "vendor/unity"]
 	path = vendor/unity
-	url = https://github.com/ThrowTheSwitch/Unity.git
+	url = https://github.com/cmancon/Unity.git
 	branch = master
 [submodule "vendor/cmock"]
 	path = vendor/cmock
